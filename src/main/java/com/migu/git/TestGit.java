@@ -10,6 +10,6 @@ public class TestGit {
         System.out.println(1);
         //123457686
         //test
-        int a = 1;
+        int a = 12;
     }
 }
