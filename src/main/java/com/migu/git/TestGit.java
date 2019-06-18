@@ -12,7 +12,8 @@ public class TestGit {
         //test
         int a = 1;
         System.out.println(a);
+        //aaa0
         //aaa
-        int a = 12;
+        a = 12;
     }
 }
