@@ -11,5 +11,6 @@ public class TestGit {
         //123457686
         //test
         int a = 1;
+        System.out.println(a);
     }
 }
