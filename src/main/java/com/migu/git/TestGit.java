@@ -15,6 +15,6 @@ public class TestGit {
         //aaa0
         //aaa
         a = 12;
-        c = 10;
+        d = 9;
     }
 }
