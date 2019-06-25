@@ -15,8 +15,8 @@ public class TestGit {
         //aaa0
         //aaa
         a = 12;
-        System.out.println(d);
         a = 12;
-        d = 9;
+        int d = 9;
+        System.out.println(d);
     }
 }
